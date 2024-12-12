@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Software_Data\\VisualStudio\\Project_j\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9935BE2F-909A-43FD-BE87-DC6CCC85BBF1}|Project_j\\Project_j.vcxproj|C:\\Software_Data\\VisualStudio\\Project_j\\Project_j\\src_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9935BE2F-909A-43FD-BE87-DC6CCC85BBF1}|Project_j\\Project_j.vcxproj|solutionrelative:Project_j\\src_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "src_test.cpp",
+              "DocumentMoniker": "C:\\Software_Data\\VisualStudio\\Project_j\\Project_j\\src_test.cpp",
+              "RelativeDocumentMoniker": "Project_j\\src_test.cpp",
+              "ToolTip": "C:\\Software_Data\\VisualStudio\\Project_j\\Project_j\\src_test.cpp",
+              "RelativeToolTip": "Project_j\\src_test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T06:36:01.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
